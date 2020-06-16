@@ -18,7 +18,9 @@ If you are missing any of items 1-3 above you should begin by registering online
 ## Create a New Conversations App
 To create a new Conversations App simply sign in to your [*Sinch Dashboard account*](https://dashboard.sinch.com) and use the left hand navigation to access Conversations > Apps.
 
-IMAGE CONVERSATIONS > APPS HERE
+<p align="center">
+<img src="./img/sinch_conversations_apps.png" width="75%" border="2px" />
+</p>
 
 Click on the *New App* button on the right, "Name" your App and click *Create*.  You will be presented with a *New Token*, copy and store it somewhere safe, you will need it when using the Conversation API.
 
